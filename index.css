@@ -4,5 +4,12 @@
   overflow: auto;
   min-height: 100vh;
   align-items: center;
+  animation-name: flash;
   flex-direction: column;
+  animation-delay: 0s;
+  background-color: #e1c0c0;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
 }
